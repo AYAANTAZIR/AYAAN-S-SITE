@@ -1,0 +1,44 @@
+/*********************************************TAG SELECTORS****************************************************/
+body {background-color: #0b0b0b;;}
+     hr {
+        border-style: none;
+        border-top-style:none;
+        border-color: rgb(245, 11, 11);
+        border-width: 5px;
+        width: 5%;
+        }
+h1 
+{
+    color: #66bfbf;
+    font: size 50px;;
+}
+h3 
+{
+    color:#06fafa;
+    font-size: 20;
+}
+h4{
+    color: #000;
+    font-size: 20;
+}
+head 
+{
+    color: red;
+}
+body{
+    color: #53BF9D;
+}
+/*
+img{
+    background-color: red;
+}*/
+/*********************************************CLASS SELECTORS****************************************************/
+.ay {
+    background-color:green ;
+}
+#b {
+    color:white ;
+}
+.ay {
+    border-radius: 50%;
+}
